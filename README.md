@@ -6,7 +6,7 @@ Shantir Shodai is a modern responsive e-commerce website built using HTML, CSS, 
 
 The website is designed to provide a premium online shopping experience with modern frontend development practices.<br>
 
-Features<br>
+<b>Features<br>
 Modern responsive design<br>
 Glassmorphism UI elements<br>
 Sticky navigation header<br>
